@@ -1,0 +1,9 @@
+C:\Users\paulopcri\Desktop\ProyectoGrip\githubproyectPau\bin\Debug\githubproyectPau.exe.config
+C:\Users\paulopcri\Desktop\ProyectoGrip\githubproyectPau\bin\Debug\githubproyectPau.exe
+C:\Users\paulopcri\Desktop\ProyectoGrip\githubproyectPau\bin\Debug\githubproyectPau.pdb
+C:\Users\paulopcri\Desktop\ProyectoGrip\githubproyectPau\obj\Debug\githubproyectPau.csprojAssemblyReference.cache
+C:\Users\paulopcri\Desktop\ProyectoGrip\githubproyectPau\obj\Debug\githubproyectPau.Form1.resources
+C:\Users\paulopcri\Desktop\ProyectoGrip\githubproyectPau\obj\Debug\githubproyectPau.Properties.Resources.resources
+C:\Users\paulopcri\Desktop\ProyectoGrip\githubproyectPau\obj\Debug\githubproyectPau.csproj.GenerateResource.cache
+C:\Users\paulopcri\Desktop\ProyectoGrip\githubproyectPau\obj\Debug\githubproyectPau.exe
+C:\Users\paulopcri\Desktop\ProyectoGrip\githubproyectPau\obj\Debug\githubproyectPau.pdb
